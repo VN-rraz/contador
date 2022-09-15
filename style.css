@@ -3,7 +3,7 @@
     padding: 0px;
 }
 body{
-    background-color: rgba(127, 157, 79, 0.652);
+    background-color: rgba(79, 157, 134, 0.652);
     padding: 15px;
 }
 header{
@@ -43,7 +43,7 @@ main{
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.707);
 
     color: whitesmoke;
-    background-color: rgba(28, 56, 19, 0.713);
+    background-color: rgba(19, 49, 56, 0.713);
 
     transition-duration: 1s;
 
@@ -55,8 +55,8 @@ main{
     border-radius: 40px;
     box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.707);
 
-    color: rgb(51, 70, 12);
-    background-color: rgba(118, 157, 79, 0.652);
+    color: rgb(12, 70, 48);
+    background-color: rgba(79, 157, 157, 0.652);
 }
 #res{
     text-align: center;
@@ -68,7 +68,7 @@ main{
     font-family: 'Lucida Sans Unicode', Verdana, sans-serif;
 }
 #textoinicio, #textofim, #textopasso{
-    border-color: rgb(92, 119, 30);
+    border-color: rgb(30, 119, 92);
     border-style: dashed;
     border-radius: 20px;
 
